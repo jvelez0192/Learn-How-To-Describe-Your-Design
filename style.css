@@ -353,11 +353,7 @@ footer a {
   cursor: pointer;
 }
 
-.popup .row {<element class="popup">
- …
- <element class="row">
-
-Selector Specificity: (0, 2, 0)
+.popup .row {
 }
 
 .popup .row:after {
